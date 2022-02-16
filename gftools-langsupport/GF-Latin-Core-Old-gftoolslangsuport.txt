@@ -1,0 +1,141 @@
+English ['AC', 'AE', 'AG', 'AI', 'AR', 'AS', 'AT', 'AU', 'AW', 'BA', 'BB', 'BD', 'BE', 'BG', 'BI', 'BM', 'BN', 'BR', 'BS', 'BT', 'BW', 'BZ', 'CA', 'CC', 'CH', 'CK', 'CL', 'CM', 'CN', 'CX', 'CY', 'CZ', 'DE', 'DG', 'DK', 'DM', 'DO', 'DZ', 'EE', 'EG', 'ER', 'ES', 'ET', 'FI', 'FJ', 'FK', 'FM', 'FR', 'GB', 'GD', 'GG', 'GH', 'GI', 'GM', 'GR', 'GU', 'GY', 'HK', 'HN', 'HR', 'HU', 'IE', 'IL', 'IM', 'IN', 'IO', 'IQ', 'IT', 'JE', 'JM', 'JO', 'KE', 'KI', 'KN', 'KY', 'KZ', 'LB', 'LC', 'LK', 'LR', 'LS', 'LT', 'LU', 'LV', 'MA', 'MG', 'MH', 'MO', 'MP', 'MS', 'MT', 'MU', 'MW', 'MX', 'MY', 'NA', 'NF', 'NG', 'NL', 'NP', 'NR', 'NU', 'NZ', 'PA', 'PG', 'PH', 'PK', 'PL', 'PM', 'PN', 'PR', 'PT', 'PW', 'RO', 'RW', 'SB', 'SC', 'SD', 'SE', 'SG', 'SH', 'SI', 'SK', 'SL', 'SS', 'SX', 'SZ', 'TA', 'TC', 'TH', 'TK', 'TO', 'TR', 'TT', 'TV', 'TZ', 'UG', 'UM', 'US', 'VC', 'VG', 'VI', 'VU', 'WS', 'YE', 'ZA', 'ZM', 'ZW'] 1636848718
+French ['AD', 'AT', 'BE', 'BF', 'BI', 'BJ', 'BL', 'CA', 'CD', 'CF', 'CG', 'CH', 'CI', 'CM', 'CY', 'DE', 'DJ', 'DZ', 'FR', 'GA', 'GB', 'GF', 'GN', 'GP', 'GQ', 'GR', 'HT', 'HU', 'IE', 'IT', 'KM', 'LB', 'LU', 'MA', 'MC', 'MF', 'MG', 'ML', 'MQ', 'MR', 'MT', 'MU', 'NC', 'NE', 'NL', 'PF', 'PM', 'PT', 'RE', 'RO', 'RW', 'SC', 'SN', 'SY', 'TD', 'TF', 'TG', 'TN', 'US', 'VU', 'WF', 'YT'] 272965534
+Spanish ['AD', 'AR', 'BO', 'BR', 'BZ', 'CL', 'CO', 'CR', 'CU', 'CW', 'DE', 'DO', 'EA', 'EC', 'ES', 'FR', 'GI', 'GQ', 'GT', 'HN', 'IC', 'MA', 'MX', 'NI', 'PA', 'PE', 'PH', 'PR', 'PT', 'PY', 'RO', 'SV', 'SX', 'TT', 'US', 'UY', 'VE'] 487664084
+German ['AT', 'BE', 'BG', 'BR', 'CA', 'CH', 'CZ', 'DE', 'DK', 'FI', 'FR', 'GB', 'GR', 'HU', 'IT', 'KZ', 'LI', 'LT', 'LU', 'NA', 'NL', 'PL', 'PY', 'RO', 'SI', 'SK', 'US'] 134799567
+Italian ['AT', 'AU', 'BR', 'CA', 'CH', 'DE', 'FR', 'GB', 'HR', 'IT', 'MT', 'SI', 'SM', 'US', 'VA'] 70743415
+Portuguese ['AG', 'AO', 'BR', 'CH', 'CV', 'FR', 'GQ', 'GW', 'LU', 'MO', 'MZ', 'PT', 'ST', 'TL'] 237135427
+Swahili ['BI', 'CD', 'KE', 'MZ', 'SO', 'TZ', 'UG', 'YT', 'ZA'] 171610296
+Albanian ['AL', 'GR', 'ME', 'MK', 'RS', 'TR', 'XK'] 6791906
+Zulu ['LS', 'MW', 'MZ', 'SZ', 'ZA'] 13973829
+Somali ['DJ', 'ET', 'KE', 'SO'] 16731120
+Malay ['BN', 'ID', 'MY', 'SG'] 34869275
+Swiss German ['CH', 'DE', 'FR', 'LI'] 7956951
+Swedish ['AX', 'DK', 'FI', 'SE'] 12932871
+Danish ['DE', 'DK', 'GL', 'IS'] 7072056
+Tsonga ['MZ', 'SZ', 'ZA', 'ZW'] 4880932
+Catalan ['AD', 'ES', 'FR', 'IT'] 8679138
+Oromo ['ET', 'KE', 'SO'] 34897120
+Afrikaans ['BW', 'NA', 'ZA'] 9318845
+Afar ['DJ', 'ER', 'ET'] 2119662
+Papiamento ['AW', 'BQ', 'CW'] 211640
+Swati ['LS', 'SZ', 'ZA'] 2212379
+Kinyarwanda ['CD', 'RW', 'UG'] 11083625
+Galician ['ES', 'PT'] 3515529
+Javanese ['ID', 'MY'] 91180665
+Interlingua ['FR', 'SE'] 135
+Faroese ['DK', 'FO'] 71350
+Filipino ['PH', 'US'] 66905683
+Basque ['ES', 'FR'] 1088518
+Gheg Albanian ['AL', 'XK'] 1430249
+Teso ['KE', 'UG'] 2082973
+Irish ['GB', 'IE'] 1155943
+Indonesian ['ID', 'NL'] 171207687
+Aymara ['BO', 'PE'] 2838620
+Low German ['DE', 'NL'] 11520008
+Lombard ['CH', 'IT'] 363284
+Kalaallisut ['DK', 'GL'] 55440
+Xhosa ['LS', 'ZA'] 10182944
+Chamorro ['GU', 'MP'] 46324
+Comorian, Latin ['KM', 'MG'] 0
+Kongo ['AO', 'CD'] 1526700
+Achinese ['ID'] 3738364
+Kalenjin ['KE'] 4068120
+Ndonga ['NA'] 552314
+Uab Meto ['ID'] 720970
+Yucateco ['MX'] 861955
+Makhuwa-Meetto ['MZ'] 1354419
+Morisyen ['MU'] 1241433
+Sangu ['TZ'] 117105
+Scottish Gaelic ['GB'] 65103
+Ao Naga ['IN'] 305000
+Rombo ['TZ'] 433290
+Bikol ['PH'] 3275430
+Shona ['ZW'] 11782503
+Mohawk ['CA'] 3505
+Sango ['CF'] 2935521
+Aragonese ['ES'] 26008
+Pökoot ['KE'] 369342
+Neapolitan ['IT'] 605306
+Wayuu ['CO'] 132528
+Chuukese ['FM'] 30730
+Romansh ['CH'] 42019
+Kimbundu ['AO'] 8130575
+Vunjo ['TZ'] 433290
+Warlpiri ['AU'] 2495
+Occitan ['FR'] 2035446
+Bena ['TZ'] 995397
+Machame ['TZ'] 433290
+Ligurian ['IT'] 536663
+Tiv ['NG'] 3424448
+Innu ['CA'] 12439
+Fijian ['FJ'] 365029
+Luba-Lulua ['CD'] 9770880
+Tok Pisin ['PG'] 5154216
+North Ndebele ['ZW'] 1745556
+Hiligaynon ['PH'] 9171204
+Minangkabau ['ID'] 8010780
+Soninke ['ML'] 1153650
+Balinese ['ID'] 4806468
+Cornish ['GB'] 1972
+Kabuverdianu ['CV'] 530762
+Taita ['KE'] 438928
+Tedim Chin ['MM'] 0
+Makonde ['TZ'] 1463820
+Luo ['KE'] 5245734
+Rinconada Bikol ['PH'] 305706
+Makhuwa ['MZ'] 3912766
+Uyghur, Latin ['CN'] 0
+Soga ['UG'] 2292409
+Sardinian ['IT'] 1060845
+Chiga ['UG'] 2335662
+Rundi ['BI'] 7475454
+Nyankole ['UG'] 2724939
+Sranan Tongo ['SR'] 414506
+Gilbertese ['KI'] 67077
+Southern Sami ['SE'] 295
+Tetum ['TL'] 816394
+Pohnpeian ['FM'] 23560
+Seselwa Creole French ['SC'] 94061
+Bemba ['ZM'] 5402246
+Piedmontese ['IT'] 6177
+Khasi ['IN'] 1060872
+Bislama ['VU'] 268499
+Sena ['MZ'] 1384517
+Walloon ['BE'] 679800
+Samburu ['KE'] 246228
+Kuanyama ['NA'] 920524
+Batak Toba ['ID'] 2456639
+Rwa ['TZ'] 128816
+Iloko ['PH'] 10481376
+Asu ['TZ'] 702633
+Seri ['MX'] 900
+Luxembourgish ['LU'] 421015
+Malagasy ['MG'] 24260130
+Shambala ['TZ'] 995397
+Sassarese Sardinian ['IT'] 106084
+Kʼicheʼ ['GT'] 1200731
+Pampanga ['PH'] 2511162
+Gusii ['KE'] 2622867
+West Albay Bikol ['PH'] 2511162
+Haitian Creole ['HT'] 8964918
+South Ndebele ['ZA'] 903417
+Icelandic ['IS'] 350734
+Jamaican Creole English ['JM'] 2668141
+Cebuano ['PH'] 26203440
+Manx ['IM'] 1719
+Corsican ['FR'] 162835
+Mapuche ['CL'] 272802
+Sicilian ['IT'] 511702
+Latin ['VA'] 820
+Tumbuka ['MW'] 1780514
+Chimborazo Highland Quichua ['EC'] 963579
+Waray ['PH'] 3166249
+Luyia ['KE'] 5888069
+Sundanese ['ID'] 32043120
+Friulian ['IT'] 37441
+Yapese ['FM'] 6555
+Norwegian [] 0
+Novial [] 0
+Hmong [] 0
+Volapük [] 0
+Hopi [] 0

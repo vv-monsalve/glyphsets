@@ -1,0 +1,71 @@
+English ['AC', 'AE', 'AG', 'AI', 'AR', 'AS', 'AT', 'AU', 'AW', 'BA', 'BB', 'BD', 'BE', 'BG', 'BI', 'BM', 'BN', 'BR', 'BS', 'BT', 'BW', 'BZ', 'CA', 'CC', 'CH', 'CK', 'CL', 'CM', 'CN', 'CX', 'CY', 'CZ', 'DE', 'DG', 'DK', 'DM', 'DO', 'DZ', 'EE', 'EG', 'ER', 'ES', 'ET', 'FI', 'FJ', 'FK', 'FM', 'FR', 'GB', 'GD', 'GG', 'GH', 'GI', 'GM', 'GR', 'GU', 'GY', 'HK', 'HN', 'HR', 'HU', 'IE', 'IL', 'IM', 'IN', 'IO', 'IQ', 'IT', 'JE', 'JM', 'JO', 'KE', 'KI', 'KN', 'KY', 'KZ', 'LB', 'LC', 'LK', 'LR', 'LS', 'LT', 'LU', 'LV', 'MA', 'MG', 'MH', 'MO', 'MP', 'MS', 'MT', 'MU', 'MW', 'MX', 'MY', 'NA', 'NF', 'NG', 'NL', 'NP', 'NR', 'NU', 'NZ', 'PA', 'PG', 'PH', 'PK', 'PL', 'PM', 'PN', 'PR', 'PT', 'PW', 'RO', 'RW', 'SB', 'SC', 'SD', 'SE', 'SG', 'SH', 'SI', 'SK', 'SL', 'SS', 'SX', 'SZ', 'TA', 'TC', 'TH', 'TK', 'TO', 'TR', 'TT', 'TV', 'TZ', 'UG', 'UM', 'US', 'VC', 'VG', 'VI', 'VU', 'WS', 'YE', 'ZA', 'ZM', 'ZW'] 1636848718
+Swahili ['BI', 'CD', 'KE', 'MZ', 'SO', 'TZ', 'UG', 'YT', 'ZA'] 171610296
+Zulu ['LS', 'MW', 'MZ', 'SZ', 'ZA'] 13973829
+Somali ['DJ', 'ET', 'KE', 'SO'] 16731120
+Malay ['BN', 'ID', 'MY', 'SG'] 34869275
+Tsonga ['MZ', 'SZ', 'ZA', 'ZW'] 4880932
+Oromo ['ET', 'KE', 'SO'] 34897120
+Afar ['DJ', 'ER', 'ET'] 2119662
+Swati ['LS', 'SZ', 'ZA'] 2212379
+Kinyarwanda ['CD', 'RW', 'UG'] 11083625
+Interlingua ['FR', 'SE'] 135
+Teso ['KE', 'UG'] 2082973
+Indonesian ['ID', 'NL'] 171207687
+Xhosa ['LS', 'ZA'] 10182944
+Comorian, Latin ['KM', 'MG'] 0
+Kongo ['AO', 'CD'] 1526700
+Kalenjin ['KE'] 4068120
+Ndonga ['NA'] 552314
+Makhuwa-Meetto ['MZ'] 1354419
+Morisyen ['MU'] 1241433
+Sangu ['TZ'] 117105
+Ao Naga ['IN'] 305000
+Rombo ['TZ'] 433290
+Bikol ['PH'] 3275430
+Shona ['ZW'] 11782503
+Pökoot ['KE'] 369342
+Kimbundu ['AO'] 8130575
+Vunjo ['TZ'] 433290
+Warlpiri ['AU'] 2495
+Bena ['TZ'] 995397
+Machame ['TZ'] 433290
+Fijian ['FJ'] 365029
+Luba-Lulua ['CD'] 9770880
+Tok Pisin ['PG'] 5154216
+North Ndebele ['ZW'] 1745556
+Hiligaynon ['PH'] 9171204
+Minangkabau ['ID'] 8010780
+Soninke ['ML'] 1153650
+Cornish ['GB'] 1972
+Taita ['KE'] 438928
+Tedim Chin ['MM'] 0
+Makonde ['TZ'] 1463820
+Luo ['KE'] 5245734
+Rinconada Bikol ['PH'] 305706
+Soga ['UG'] 2292409
+Chiga ['UG'] 2335662
+Rundi ['BI'] 7475454
+Nyankole ['UG'] 2724939
+Gilbertese ['KI'] 67077
+Pohnpeian ['FM'] 23560
+Seselwa Creole French ['SC'] 94061
+Bemba ['ZM'] 5402246
+Bislama ['VU'] 268499
+Samburu ['KE'] 246228
+Kuanyama ['NA'] 920524
+Batak Toba ['ID'] 2456639
+Rwa ['TZ'] 128816
+Asu ['TZ'] 702633
+Shambala ['TZ'] 995397
+Kʼicheʼ ['GT'] 1200731
+Pampanga ['PH'] 2511162
+Gusii ['KE'] 2622867
+West Albay Bikol ['PH'] 2511162
+South Ndebele ['ZA'] 903417
+Jamaican Creole English ['JM'] 2668141
+Cebuano ['PH'] 26203440
+Latin ['VA'] 820
+Tumbuka ['MW'] 1780514
+Luyia ['KE'] 5888069
+Novial [] 0
+Hmong [] 0
